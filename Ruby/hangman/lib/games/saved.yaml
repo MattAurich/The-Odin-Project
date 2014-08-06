@@ -1,0 +1,16 @@
+--- !ruby/object:Hangman
+random_word: scoreless
+word_display:
+- _
+- c
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+incorrect_guesses_left: 4
+incorrect_letters:
+- a
+- k
